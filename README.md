@@ -104,4 +104,8 @@ ___
 
 7. 표준
 
-__*<center>ORM은 객체와 RDB 두 기둥위에 있는 기술이다.</center>*__
+__*ORM은 객체와 RDB 두 기둥위에 있는 기술이다.*__
+
+## 요약정리 모음
+
+[2.JPA시작](/JPA-Basic/Summary/02.JPA시작.md)

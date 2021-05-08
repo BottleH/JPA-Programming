@@ -42,15 +42,15 @@ ___
 
 1. JPA는 애플리케이션과 JDBC 사이에서 동작한다.
 
-![JPA동작개요](JPA-Basic/Img/JPA동작개요.png)
+![JPA동작개요](JPA-Basic/Img/01.JPA소개/JPA동작개요.png)
 
 2. JPA 저장
 
-![JPA동작-저장](JPA-Basic/Img/JPA저장.png)
+![JPA동작-저장](JPA-Basic/Img/01.JPA소개/JPA저장.png)
 
 3. JPA 조회
 
-![img.png](JPA-Basic/Img/JPA조회.png)
+![img.png](JPA-Basic/Img/01.JPA소개/JPA조회.png)
 
 ### 1-4. JPA 버전
 

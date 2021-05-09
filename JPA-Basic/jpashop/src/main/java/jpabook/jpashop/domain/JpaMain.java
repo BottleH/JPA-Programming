@@ -1,4 +1,4 @@
-package hellojpa;
+package jpabook.jpashop.domain;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
@@ -6,6 +6,7 @@ import javax.persistence.EntityTransaction;
 import javax.persistence.Persistence;
 
 public class JpaMain {
+
     public static void main(String[] args) {
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("hello");
 
@@ -15,8 +16,13 @@ public class JpaMain {
         tx.begin();
 
         try {
-            Member findMember = em.find(Member.class, 1L);
-            findMember.setName("HelloJPA");
+
+            Order order = em.find(Order.class, 1L);
+            Long memberId = order.getMemberId();
+
+            Member member = em.find(Member. class, memberId);
+
+            Member findMember = order.getMember();
 
             tx.commit();
         } catch (Exception e) {
@@ -24,6 +30,7 @@ public class JpaMain {
         } finally {
             em.close();
         }
+
         emf.close();
     }
 }

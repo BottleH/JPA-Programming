@@ -114,3 +114,5 @@ __*ORM은 객체와 RDB 두 기둥위에 있는 기술이다.*__
 [3.영속성관리](/JPA-Basic/Summary/03.영속성관리.md)
 
 [4.엔티티매핑](/JPA-Basic/Summary/04.엔티티매핑.md)
+
+[5.연관관계 매핑 기초](/JPA-Basic/Summary/05.연관관계_매핑_기초.md)

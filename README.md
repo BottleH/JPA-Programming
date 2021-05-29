@@ -1,4 +1,5 @@
-# 자바 ORM 표준 JPA 프로그래밍
+# 자바 ORM 표준 JPA 프로그래밍 - 기본편
+> ref. Inflearn 김영한 님의 자바 ORM 표준 JPA 프로그래밍 - 기본편 정리
 
 ## 1. JPA 소개
 

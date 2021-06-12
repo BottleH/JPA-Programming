@@ -122,4 +122,6 @@ __*ORM은 객체와 RDB 두 기둥위에 있는 기술이다.*__
 
 [6.다양한 연관관계 매핑](/JPA-Basic/Summary/06.다양한_연관관계_매핑.md)
 
-[7. 고급 매핑](/JPA-Basic/Summary/07.고급_매핑.md)
+[7.고급 매핑](/JPA-Basic/Summary/07.고급_매핑.md)
+
+[8.프록시와 연관관계 정리](/JPA-Basic/Summary/08.프록시와_연관관계_관리.md)

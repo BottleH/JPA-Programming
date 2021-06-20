@@ -1,8 +1,8 @@
 # 자바 ORM 표준 JPA 프로그래밍 - 기본편
 
-> ref. Inflearn - 자바 ORM 표준 JPA 프로그래밍 - 기본편
+> ref. [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic)
 >
-> ​ book - 자바 ORM 표준 JPA 프로그래밍(저자: 김영한)
+> book - 자바 ORM 표준 JPA 프로그래밍(저자: 김영한)
 
 ## 1. JPA 소개
 
@@ -125,3 +125,7 @@ __*ORM은 객체와 RDB 두 기둥위에 있는 기술이다.*__
 [7.고급 매핑](/JPA-Basic/Summary/07.고급_매핑.md)
 
 [8.프록시와 연관관계 정리](/JPA-Basic/Summary/08.프록시와_연관관계_관리.md)
+
+[9.값 타입](/JPA-Basic/Summary/09.값_타입.md)
+
+[10.객체지향 쿼리언어](/JPA-Basic/Summary/10.객체지향_쿼리언어.md)

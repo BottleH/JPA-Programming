@@ -1,8 +1,10 @@
-# 자바 ORM 표준 JPA 프로그래밍 - 기본편
+# JPA - Programming
 
-> ref. [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic)
->
-> book - 자바 ORM 표준 JPA 프로그래밍(저자: 김영한)
+**JPA Study 정리**
+
+- 강의: [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://www.inflearn.com/course/ORM-JPA-Basic)
+
+- 도서: [자바 ORM 표준 JPA 프로그래밍](http://www.yes24.com/Product/Goods/19040233)
 
 ## 1. JPA 소개
 
